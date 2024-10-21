@@ -11,14 +11,13 @@
             "id": "e2f9de27850c4487",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "daily/2024-10-21.md",
-                "mode": "source",
-                "source": false
+                "file": ".gitignore",
+                "staged": true
               },
-              "icon": "lucide-file",
-              "title": "2024-10-21"
+              "icon": "git-pull-request",
+              "title": "Diff View (.gitignore)"
             }
           }
         ]
@@ -172,7 +171,16 @@
   "active": "e2f9de27850c4487",
   "lastOpenFiles": [
     "daily/2024-10-21.md",
-    "daily",
+    "新建 文本文档.txt",
+    "code/metal_app/target/riscv64gc-unknown-none-elf/debug/incremental/metal_app-1asyw74ee99lq/s-h11udo1ye8-09foimg-4anxxc8o9az3vpcr921lcmpyf/work-products.bin",
+    "code/metal_app/target/riscv64gc-unknown-none-elf/debug/incremental/metal_app-1asyw74ee99lq/s-h11udo1ye8-09foimg-4anxxc8o9az3vpcr921lcmpyf/query-cache.bin",
+    "code/metal_app/target/riscv64gc-unknown-none-elf/debug/incremental/metal_app-1asyw74ee99lq/s-h11udo1ye8-09foimg-4anxxc8o9az3vpcr921lcmpyf/dep-graph.bin",
+    "code/metal_app/target/riscv64gc-unknown-none-elf/debug/incremental/metal_app-1asyw74ee99lq/s-h11udo1ye8-09foimg-4anxxc8o9az3vpcr921lcmpyf",
+    "code/metal_app/target/riscv64gc-unknown-none-elf/debug/incremental/metal_app-3t2zboz0or8y4/s-h11ucsbosa-1ygbo1n-8e0g2lj8eocrmp26ye3eagagr/work-products.bin",
+    "code/metal_app/target/riscv64gc-unknown-none-elf/debug/incremental/metal_app-3t2zboz0or8y4/s-h11ucsbosa-1ygbo1n-8e0g2lj8eocrmp26ye3eagagr/query-cache.bin",
+    "code/metal_app/target/riscv64gc-unknown-none-elf/debug/incremental/metal_app-3t2zboz0or8y4/s-h11ucsbosa-1ygbo1n-8e0g2lj8eocrmp26ye3eagagr/dep-graph.bin",
+    "code/metal_app/target/riscv64gc-unknown-none-elf/debug/incremental/metal_app-3t2zboz0or8y4/s-h11ucsbosa-1ygbo1n-8e0g2lj8eocrmp26ye3eagagr/ea1ly0zifrvyi2yr0mest06vg.o",
+    "code/metal_app/target/riscv64gc-unknown-none-elf/debug/incremental/metal_app-3t2zboz0or8y4/s-h11ucsbosa-1ygbo1n-8e0g2lj8eocrmp26ye3eagagr/4mhyi8h2qa16a1fxc7tefc537.o",
     "欢迎.md"
   ]
 }
