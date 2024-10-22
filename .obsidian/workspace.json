@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e075142a628a88b5",
+        "id": "00e7deffa41839b5",
         "type": "tabs",
         "children": [
           {
-            "id": "e2f9de27850c4487",
+            "id": "54be6c3b6de470e5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".gitignore",
-                "staged": true
+                "file": "diary/2024-10-21.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (.gitignore)"
+              "icon": "lucide-file",
+              "title": "2024-10-21"
             }
           }
         ]
@@ -168,9 +169,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2f9de27850c4487",
+  "active": "1698b879d8364ea4",
   "lastOpenFiles": [
-    "daily/2024-10-21.md",
+    "diary/2024-10-21.md",
     "新建 文本文档.txt",
     "code/metal_app/target/riscv64gc-unknown-none-elf/debug/incremental/metal_app-1asyw74ee99lq/s-h11udo1ye8-09foimg-4anxxc8o9az3vpcr921lcmpyf/work-products.bin",
     "code/metal_app/target/riscv64gc-unknown-none-elf/debug/incremental/metal_app-1asyw74ee99lq/s-h11udo1ye8-09foimg-4anxxc8o9az3vpcr921lcmpyf/query-cache.bin",
