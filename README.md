@@ -4,3 +4,6 @@
 * `/code`：实验代码
 * [第一阶段 Rust基础 作业仓库链接](https://github.com/LearningOS/rust-rustlings-2024-autumn-OuOu2021)
 * [第二阶段 rCore设计实现 作业仓库链接](https://github.com/LearningOS/2024a-rcore-OuOu2021)
+
+## 相关资料
+* [RISC-V Assembly Programmer's Manual](https://asm-docs.microagi.org/risc-v/riscv-asm.html)
